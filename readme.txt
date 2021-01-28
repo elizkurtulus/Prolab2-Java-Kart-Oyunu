@@ -1,1 +1,2 @@
-Swing arayüzü ile tasarlanmış java kart oyunu
+
+Giris classından Run butonuna basarak çalıştırınız.
